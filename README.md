@@ -14,7 +14,6 @@
 <a href="https://github.com/fcksecurity">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fcksecurity&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fcksecurity&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fcksecurity&theme=tokyonight" height="180em" />
 <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcksecurity&theme=tokyonight" height="180em" />
 </div>
