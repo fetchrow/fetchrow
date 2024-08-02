@@ -7,9 +7,5 @@ class AboutMe:
         self.name       = "leon"
         self.discord    = "fetchrow"
         self.telegram   = "aiosync"
-        self.projects   = {
-            "pixel": "a small optimizer, helping content creators in many ways.",
-            "custody": "discontinued - a aesthetic all-in-one bot",
-            "ritual": "a all-in-one aesthetic discord bot, used to elevate guilds with customization and more."
-        }
+        self.projects   = {}
 ```
